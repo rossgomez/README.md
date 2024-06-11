@@ -1,3 +1,12 @@
+![Web-developer](https://github.com/rossgomez/README.md/blob/main/Banner.png)
+
+---
+<p align="center">
+	<a href="mailto:rosa.gomezj28@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/rossgomez"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/rosa-gomez-jimenez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
 ¡Hola! Soy Rosa, Data Analyst apasionada con experiencia en análisis de datos y visualización. Me dedico al aprendizaje continuo y aplico mis habilidades para resolver problemas complejos y optimizar decisiones. Estoy entusiasmada por contribuir con soluciones innovadoras en cada proyecto que realizo.
 
 ## 🚀 Sobre mí
@@ -16,8 +25,3 @@ Como miembro activo de mi comunidad y equipo de trabajo, siempre busco maneras d
 - Bases de datos: MySQL, SQL Server, PostgreSQL
 - Herramientas de visualización: PowerBI
 - Sistemas operativos: Windows, Ubuntu, Debian
-
-### Puedes contactarme
----
-- [Linkedin](https://www.linkedin.com/in/rosa-gomez-jimenez/)
-- rosa.gomezj28@gmail.com
